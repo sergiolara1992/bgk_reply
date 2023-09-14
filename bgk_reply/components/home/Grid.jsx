@@ -1,10 +1,10 @@
 "use client";
 import Image from 'next/image';
 import React, { useState } from 'react';
-import card1 from "../public/card1.webp"
-import card2 from "../public/card2.webp";
-import card3 from "../public/card3.webp";
-import card4 from "../public/card4.webp";
+import card1 from "../../public/card1.webp"
+import card2 from "../../public/card2.webp";
+import card3 from "../../public/card3.webp";
+import card4 from "../../public/card4.webp";
 
 const cards = [
   {
@@ -41,7 +41,7 @@ const Grid = () => {
     const [card] = useState(cards);
   return (
     <>
-      <div className="container py-20 px-4">
+      <div className="container pt-10 p-20 px-4">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
           {card.map((c, index) => (
             <article key={index} className="bg-white rounded-lg">

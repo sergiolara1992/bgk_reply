@@ -8,7 +8,7 @@ const Notice = () => {
         <MdLocationOn />
         For availability
         <div>
-          <p className='font-normal underline  '>Choose location</p>
+          <p className='font-normal underline'>Choose location</p>
         </div>
       </div>
     </div>

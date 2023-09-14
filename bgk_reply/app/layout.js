@@ -1,3 +1,4 @@
+import Bottomnav from '@/components/home/Bottomnav'
 import './globals.css'
 import { Flamenco } from 'next/font/google'
 
@@ -11,7 +12,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={flamenco.className}>{children}</body>
+      <body className={flamenco.className}>
+        {children}
+        <Bottomnav />
+        
+        </body>
     </html>
   )
 }

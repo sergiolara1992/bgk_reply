@@ -5,7 +5,7 @@ import { GiScooter } from "react-icons/gi";
 const Hero = () => {
   return (
     <>
-      <div className='container px-2 py-4 flex  items-center '>
+      <div className='container px-4 pt-36  flex  items-center '>
         <article>
           <h1 className='text-4xl lg:text-5xl mb-8'>Start your BK® order.</h1>
           <ul className='flex flex-col gap-4'>
