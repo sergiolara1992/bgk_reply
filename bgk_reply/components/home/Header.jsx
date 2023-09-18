@@ -20,6 +20,7 @@ const Header = () => {
               <img
                 src="https://website.menu.app/app/uploads/sites/8/2021/04/logo.svg"
                 alt=""
+                className="md:pl-36"
               />
             </Link>
           </div>
