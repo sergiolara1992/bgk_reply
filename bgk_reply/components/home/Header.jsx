@@ -19,7 +19,7 @@ const Header = () => {
             <Link href="/">
               <img
                 src="https://website.menu.app/app/uploads/sites/8/2021/04/logo.svg"
-                alt=""
+                alt="logo bk"
                 className="md:pl-36"
               />
             </Link>

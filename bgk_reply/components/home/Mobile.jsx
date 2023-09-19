@@ -10,7 +10,7 @@ const Mobile = () => {
               src="https://cdn.sanity.io/images/czqk28jt/prod_bk_us/57382e9feb53d08237fa988a570efdff1602d6ff-912x1267.png?w=900&q=80&fit=max&auto=format"
               width={400}
               height={100}
-              alt=""
+              alt="mobile"
               srcset=""
               className="block mx-auto md:-mt-40"
             />

@@ -50,6 +50,7 @@ const Grid = () => {
                 width={700}
                 height={300}
                 className="rounded-t-lg"
+                
               />
 
               <article className="p-4">

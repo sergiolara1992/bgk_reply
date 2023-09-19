@@ -27,7 +27,7 @@ const Hero = () => {
         <article>
           <img 
             src="https://cdn.sanity.io/images/czqk28jt/prod_bk_us/7708c7ebae03483ccff289a6c7188668b6db5c64-749x336.png?w=900&q=90&fit=max&auto=format"
-            alt=""
+            alt=" hamburguesa "
             srcset=""
           />
         </article>
